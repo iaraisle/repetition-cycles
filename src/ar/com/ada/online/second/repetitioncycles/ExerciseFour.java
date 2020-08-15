@@ -52,9 +52,9 @@ public class ExerciseFour {
         }
 
         System.out.println("El resultado de la resta de ambas matrices es: ");
-        for (int i = 0; i < quanRows; i++) {
+        for (int i = 0; i < matrizC.length; i++) {
             System.out.print(" | ");
-            for (int j = 0; j < quanColumns; j++) {
+            for (int j = 0; j < matrizC[i].length; j++) {
                 System.out.print(matrizC[i][j]);
                 System.out.print(" | ");
 
