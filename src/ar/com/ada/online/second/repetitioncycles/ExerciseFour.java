@@ -59,7 +59,7 @@ public class ExerciseFour {
                 System.out.print(" | ");
 
             }
-            System.out.println(); //para el salto de línea de los palitos
+            System.out.println(); //para el salto de línea de los palitos.
         }
 
     }
